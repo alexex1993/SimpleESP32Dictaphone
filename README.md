@@ -15,7 +15,7 @@ Optional: Adapter for MicroSD Card or use ESP32S3 with internal microsd adaoter 
 - Audio Recording after start ESP32 or reset button on ESP32
 - Name of file use randomly for several recordings
 - Format audio: wav raw
-- Possibility to choose: record duration, volume level, buffer size and sample rate
+- Possibility to choose: record duration, volume level, buffer size and sample rate (show constants in code)
 
 ## Getting started
 
