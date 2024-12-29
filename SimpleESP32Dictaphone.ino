@@ -1,5 +1,4 @@
 #include "SD_MMC.h"
-#include <EEPROM.h>
 #include "driver/i2s.h"
 
 #define SD_MMC_CMD 38 // CMD pin for SD_MMC
