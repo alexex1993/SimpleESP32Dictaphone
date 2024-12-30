@@ -41,4 +41,6 @@ Optional: adapter for MicroSD card OR use ESP32S3 with internal microsd slot (in
 #define SD_MMC_CLK 39 // CLK pin for SD_MMC
 #define SD_MMC_D0  40 // D0 pin for SD_MMC
 ```
-Read examples for `SD_MMC.h` and your MicroSD adapter
+Read examples for `SD_MMC.h` library and compare with your MicroSD adapter
+
+[Demonstration on YouTube](https://youtu.be/J6_7y23uscI?si=-QVYGFy7MUHNssFf)
