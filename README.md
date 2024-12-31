@@ -4,7 +4,7 @@
 
 ## Need components:
 1) ESP32(S3) board
-2) SSD1306 OLED Display
+2) IMP441 (or other I2S microphone)
 3) MicroSD HC card
 
 Optional: adapter for MicroSD card OR use ESP32S3 with internal microsd slot (in my case)
