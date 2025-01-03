@@ -1,10 +1,10 @@
-# The audio recorder based on ESP32 and IMP441 (I2S) with saving WAV-files to MicroSD
+# The audio recorder based on ESP32 and INMP441 (I2S) with saving WAV-files to MicroSD
 
 ![image](https://github.com/user-attachments/assets/2c3cde85-9fc2-4634-b6c5-806b858d65eb)
 
 ## Need components:
 1) ESP32(S3) board
-2) IMP441 (or other I2S microphone)
+2) INMP441 (or other I2S microphone)
 3) MicroSD HC card
 
 Optional: adapter for MicroSD card OR use ESP32S3 with internal microsd slot (in my case)
@@ -26,7 +26,7 @@ Optional: adapter for MicroSD card OR use ESP32S3 with internal microsd slot (in
 
 ## How to connect microphone
 
-| ESP32(S3) Board | IMP441 |
+| ESP32(S3) Board | INMP441 |
 | ----------- | ----------- |
 | GND   | GND   |
 | 3V3 | VCC   |
